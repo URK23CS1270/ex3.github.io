@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff8f0;
+    color: #333;
+}
+
+header {
+    background-color: #d35400;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+.intro {
+    text-align: center;
+    padding: 20px;
+}
+
+.chef-img {
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+.menu {
+    padding: 20px;
+    text-align: center;
+}
+
+.menu h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #d35400;
+}
+
+.menu-item {
+    background: white;
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.menu-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.menu-item h3 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.menu-item p {
+    font-size: 16px;
+    color: #666;
+}
+
+.menu-item span {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #d35400;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #d35400;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
